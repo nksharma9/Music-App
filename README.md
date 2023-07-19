@@ -24,3 +24,4 @@ This Project built with Next.js, Redux & Redux Persist, SWR and Wavesurfer.js.
 ## Usage
 
 Open your web browser and visit the provided URL or `http://localhost:3000` to access the Music app.
+# musicApp
