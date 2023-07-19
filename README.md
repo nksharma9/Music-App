@@ -16,7 +16,7 @@ This Project built with Next.js, Redux & Redux Persist, SWR and Wavesurfer.js.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/IdoBouskila/music-app.git`
+1. Clone the repository: `git clone https://github.com/nksharma9/music-app.git`
 2. Navigate to the project directory: `cd music-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
